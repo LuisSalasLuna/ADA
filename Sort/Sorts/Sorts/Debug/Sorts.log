@@ -1,0 +1,28 @@
+﻿  Sorts.cpp
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(10,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(121,32): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(124,15): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(126,22): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(128,15): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(128,29): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(130,29): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(130,31): warning C4244: 'argumento': conversión de '_Ty' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(131,22): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(134,27): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(139,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(158,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(220,12): warning C4244: 'return': conversión de '__int64' a 'long'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(227,15): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(231,15): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(231,29): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(233,47): warning C4244: 'argumento': conversión de '_Ty' a 'const unsigned int'; posible pérdida de datos
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Sorts\Sorts.cpp(242,36): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  Sorts.vcxproj -> C:\Users\asus\Documents\SanPa\5to sem\ADA\2da mitad\1 Sort\Sorts\Debug\Sorts.exe
